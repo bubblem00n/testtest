@@ -1,0 +1,94 @@
+{
+    "id": "68d2ba12986d86bb6b094486",
+    "cart_items": [],
+    "moderated_cart_items": [
+        {
+            "moderated_offer_id": "ad08d811-e10b-466b-a96a-0708d9c6fe43",
+            "item_id": 2117855,
+            "slug": "smartfon-apple-iphone-16-pro-max-256-gb-nanosim-esim-desert-titanium-1749457670",
+            "images": [
+                "https://s3.fortifai.uz/shop/moderation/partner-1189/1749457253-optimize.jpg",
+                "https://s3.fortifai.uz/shop/moderation/partner-1189/1749457253-optimize (1).jpg",
+                "https://s3.fortifai.uz/shop/moderation/partner-1189/1756450323-1755068330-sayan-majhi-ZvvrzmFp5Dw-unsplash.jpg",
+                "https://s3.fortifai.uz/shop/moderation/partner-1189/1756450327-1755068492-\u0421\u043d\u0438\u043c\u043e\u043a \u044d\u043a\u0440\u0430\u043d\u0430 2025-08-13 114215.png",
+                "https://s3.fortifai.uz/shop/moderation/partner-1189/1756450335-1755068456-\u0421\u043d\u0438\u043c\u043e\u043a \u044d\u043a\u0440\u0430\u043d\u0430 2025-08-13 114230.png",
+                "https://s3.fortifai.uz/shop/moderation/partner-1189/1756450339-1755068460-\u0421\u043d\u0438\u043c\u043e\u043a \u044d\u043a\u0440\u0430\u043d\u0430 2025-08-13 114302.png",
+                "https://s3.fortifai.uz/shop/moderation/partner-1189/1756450342-1755068463-\u0421\u043d\u0438\u043c\u043e\u043a \u044d\u043a\u0440\u0430\u043d\u0430 2025-08-13 114342.png",
+                "https://s3.fortifai.uz/shop/moderation/partner-1189/1756450347-1755068355-\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f.png",
+                "https://s3.fortifai.uz/shop/moderation/partner-1189/1756450351-1755068357-\u0411\u0435\u0437 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f (1).png"
+            ],
+            "name": "\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d Apple iPhone 16 Pro Max 256 \u0413\u0411 (nanoSim+eSim), Desert Titanium",
+            "price": 1688000000,
+            "old_price": 2200000000,
+            "loan_condition": {
+                "id": 40268,
+                "commission": 75,
+                "duration": 24,
+                "merchant_condition_id": 40268
+            },
+            "available_loan_conditions": [
+                {
+                    "id": 40266,
+                    "commission": 15,
+                    "duration": 3,
+                    "merchant_condition_id": 40266
+                },
+                {
+                    "id": 40270,
+                    "commission": 25,
+                    "duration": 6,
+                    "merchant_condition_id": 40270
+                },
+                {
+                    "id": 40267,
+                    "commission": 40,
+                    "duration": 12,
+                    "merchant_condition_id": 40267
+                },
+                {
+                    "id": 40269,
+                    "commission": 56,
+                    "duration": 18,
+                    "merchant_condition_id": 40269
+                },
+                {
+                    "id": 40268,
+                    "commission": 75,
+                    "duration": 24,
+                    "merchant_condition_id": 40268
+                }
+            ],
+            "partner": {
+                "id": 1189,
+                "name": "BIRINCHI",
+                "has_credit": true,
+                "cash_sales": false,
+                "has_immediate_purchase": true,
+                "active_delivery": [
+                    {
+                        "id": 507,
+                        "partner_id": 1189,
+                        "amount": 0,
+                        "note": "\u041e\u0442 1 \u0434\u043d\u044f \u043f\u043e \u0422\u0430\u0448\u043a\u0435\u043d\u0442\u0443. \u041e\u0442 3 \u0434\u043d\u0435\u0439 \u043f\u043e \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d\u0443",
+                        "note_uz": "Toshkent bo'ylab 1 kundan boshlab. O' zbekiston bo'ylab 3 kundan boshlab",
+                        "is_active": true,
+                        "created_at": "2024-09-18T11:30:44+00:00",
+                        "updated_at": "2024-09-18T11:30:44+00:00"
+                    }
+                ],
+                "has_alif_mobi_native_payment": true
+            },
+            "quantity": 1,
+            "warehouse_quantity": 934,
+            "is_visible": true,
+            "in_fulfillment_center": false,
+            "category_name": "\u0421\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u044b Apple ",
+            "brand_name": "Apple",
+            "purchase_restrictions": null
+        }
+    ],
+    "total_items_count": 1,
+    "total_items_price": 1688000000,
+    "delivery_price": 0,
+    "total_price": 1688000000
+}

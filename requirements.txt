@@ -1,17 +1,16 @@
-altgraph @ file:///AppleInternal/Library/BuildRoots/4~B7IEugDHS-fAL-bTRqAKCb_qmc84naJzmK7469Q/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+allure-pytest==2.15.0
+allure-python-commons==2.15.0
+attrs==25.3.0
+Brotli==1.1.0
 certifi==2025.8.3
 charset-normalizer==3.4.3
-exceptiongroup==1.3.0
-future @ file:///AppleInternal/Library/BuildRoots/4~B7IEugDHS-fAL-bTRqAKCb_qmc84naJzmK7469Q/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+dotenv==0.9.9
 idna==3.10
 iniconfig==2.1.0
-macholib @ file:///AppleInternal/Library/BuildRoots/4~B7IEugDHS-fAL-bTRqAKCb_qmc84naJzmK7469Q/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
 packaging==25.0
 pluggy==1.6.0
 Pygments==2.19.2
 pytest==8.4.2
+python-dotenv==1.1.1
 requests==2.32.5
-six @ file:///AppleInternal/Library/BuildRoots/4~B7IEugDHS-fAL-bTRqAKCb_qmc84naJzmK7469Q/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
-tomli==2.2.1
-typing_extensions==4.15.0
 urllib3==2.5.0
